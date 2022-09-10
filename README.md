@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tayyab2914
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on a compile application project
+- 💞️ I’m looking to collaborate on a console application projects
 
 
 <!---
